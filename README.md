@@ -4,7 +4,7 @@ This is a real-time chat application built using Python Django, AJAX, HTML, and 
 
 ## Features
 
-- User authentication (Login/Logout/Register)
+- User authentication (Login)
 - Real-time messaging using AJAX
 - Django-based backend
 - Responsive UI with HTML & CSS
@@ -12,10 +12,10 @@ This is a real-time chat application built using Python Django, AJAX, HTML, and 
 
 ## Tech Stack
 
-- **Backend**: Django, Django Channels
+- **Backend**: Django, Django
 - **Frontend**: HTML, CSS, JavaScript, AJAX
 - **Database**: SQLite (default), can be changed to PostgreSQL/MySQL
-- **WebSockets**: Django Channels (for real-time communication)
+
 
 ## Installation
 
